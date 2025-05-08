@@ -1,0 +1,25 @@
+{
+    "Smartphones": ["/Assets/Smartphones/1.jpg", "/Assets/Smartphones/2.jpeg", "/Assets/Smartphones/3.jpeg", "/Assets/Smartphones/4.jpeg", "/Assets/Smartphones/5.jpeg","/Assets/Smartphones/6.jpeg","/Assets/Smartphones/7.jpeg"],
+    "Tablets": ["/Assets/Tablets/1.jpg", "/Assets/Tablets/2.avif", "/Assets/Tablets/3.jpg", "/Assets/Tablets/4.jpg", "/Assets/Tablets/5.avif","/Assets/Tablets/6.jpg","/Assets/Tablets/6.jpg","/Assets/Tablets/8.jpeg"],
+    "Wireless Earbuds": ["/Assets/Wireless Earbuds/1.jpeg", "/Assets/Wireless Earbuds/2.jpg", "/Assets/Wireless Earbuds/3.jpg", "/Assets/Wireless Earbuds/4.webp", "/Assets/Wireless Earbuds/5.jpg"],
+    "Smartwatches": ["/Assets/Smartwatches/1.jpg", "/Assets/Smartwatches/2.jpg", "/Assets/Smartwatches/3.jpg", "/Assets/Smartwatches/4.jpg", "/Assets/Smartwatches/5.jpg","/Assets/Smartwatches/6.jpeg","/Assets/Smartwatches/7.jpeg"],
+    "Laptops": ["/Assets/Laptops/1.jpg", "/Assets/Laptops/2.jpg", "/Assets/Laptops/3.jpg", "/Assets/Laptops/4.avif", "/Assets/Laptops/5.avif","/Assets/Laptops/6.jpeg"],
+    "Gaming Consoles": ["/Assets/Gaming Consoles/1.jpg", "/Assets/Gaming Consoles/2.jpg", "/Assets/Gaming Consoles/3.jpg", "/Assets/Gaming Consoles/4.jpg", "/Assets/Gaming Consoles/5.jpg"],
+    "Headphones": ["/Assets/Headphones/1.jpg", "/Assets/Headphones/2.jpg", "/Assets/Headphones/3.jpg", "/Assets/Headphones/4.jpg", "/Assets/Headphones/5.jpg","/Assets/Headphones/6.jpg","/Assets/Headphones/7.jpg"],
+    "Televisions": ["/Assets/Television/1.jpg", "/Assets/Television/2.jpg", "/Assets/Television/3.jpg", "/Assets/Television/4.jpg", "/Assets/Television/5.jpg"],
+    "PC Components": ["/Assets/PC Components/1.jpg", "/Assets/PC Components/2.jpg", "/Assets/PC Components/3.jpg", "/Assets/PC Components/4.jpg", "/Assets/PC Components/5.jpg"],
+    "Cameras": ["/Assets/Cameras/1.jpg", "/Assets/Cameras/2.jpg", "/Assets/Cameras/3.jpg", "/Assets/Cameras/4.jpg", "/Assets/Cameras/5.jpg"],
+    "Bluetooth Speakers": ["/Assets/Bluetooth Speakers/1.jpg", "/Assets/Bluetooth Speakers/2.jpg", "/Assets/Bluetooth Speakers/3.jpg", "/Assets/Bluetooth Speakers/4.jpg", "/Assets/Bluetooth Speakers/5.jpg"],
+    "Monitors": ["/Assets/Monitors/1.jpg","/Assets/Monitors/6.jpg","/Assets/Monitors/7.jpg", "/Assets/Monitors/2.jpg", "/Assets/Monitors/3.jpg", "/Assets/Monitors/4.jpg", "/Assets/Monitors/5.jpg"],
+    "Smart Home Devices": ["/Assets/Smart Home Devices/1.jpg","/Assets/Smart Home Devices/6.jpg","/Assets/Smart Home Devices/7.jpg", "/Assets/Smart Home Devices/2.jpg", "/Assets/Smart Home Devices/3.jpg", "/Assets/Smart Home Devices/4.jpg", "/Assets/Smart Home Devices/5.jpg"],
+    "VR Headsets": ["/Assets/VR Headsets/1.jpg","/Assets/VR Headsets/6.jpg","/Assets/VR Headsets/7.jpg", "/Assets/VR Headsets/2.jpg", "/Assets/VR Headsets/3.jpg", "/Assets/VR Headsets/4.jpg", "/Assets/VR Headsets/5.jpg"],
+    "Power Banks": ["/Assets/Power Banks/1.jpg","/Assets/Power Banks/6.jpg","/Assets/Power Banks/7.jpg", "/Assets/Power Banks/2.jpg", "/Assets/Power Banks/3.jpg", "/Assets/Power Banks/4.jpg", "/Assets/Power Banks/5.jpg"],
+    "Networking Devices": ["/Assets/Networking Devices/1.jpg", "/Assets/Networking Devices/2.jpg", "/Assets/Networking Devices/3.jpg", "/Assets/Networking Devices/4.jpg", "/Assets/Networking Devices/5.jpg"],
+    "Printers & Scanners": ["/Assets/Printers & Scanners/1.jpg","/Assets/Printers & Scanners/6.jpg","/Assets/Printers & Scanners/7.jpg", "/Assets/Printers & Scanners/2.jpg", "/Assets/Printers & Scanners/3.jpg", "/Assets/Printers & Scanners/4.jpg", "/Assets/Printers & Scanners/5.jpg"],
+    "Projectors": ["/Assets/Projectors/1.jpg", "/Assets/Projectors/2.jpg", "/Assets/Projectors/3.jpg", "/Assets/Projectors/4.jpg", "/Assets/Projectors/5.jpg"],
+    "External Storage": ["/Assets/External Storage/1.jpg","/Assets/External Storage/7.jpg", "/Assets/External Storage/2.jpg", "/Assets/External Storage/3.jpg", "/Assets/External Storage/4.jpg", "/Assets/External Storage/5.jpg"],
+    "Car Electronics": ["/Assets/Car Electronics/6.jpg", "/Assets/Car Electronics/2.jpg", "/Assets/Car Electronics/3.jpg", "/Assets/Car Electronics/4.jpg", "/Assets/Car Electronics/5.jpg"],
+    "E-Readers": ["/Assets/E-Readers/1.jpg","/Assets/E-Readers/6.jpg","/Assets/E-Readers/7.jpg", "/Assets/E-Readers/7.jpg","/Assets/E-Readers/2.jpg", "/Assets/E-Readers/3.jpg", "/Assets/E-Readers/4.jpg", "/Assets/E-Readers/5.jpg"],
+    "Retro & Niche Gadgets": ["/Assets/Retro & Niche Gadgets/1.jpg"]
+}
+  
