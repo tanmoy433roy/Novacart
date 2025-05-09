@@ -2,7 +2,7 @@
 
 Welcome to **NovaCart**, a dynamic and responsive e-commerce web platform that delivers smart product recommendations to users based on categories and interests. Built for an intuitive shopping experience, NovaCart combines sleek design with practical functionality.
 
-🌐 **[Live Website](https://novacartstore.netlify.app/)**
+🌐 **[Live Website](https://novacartshop.netlify.app/)**
 
 ## 🚀 Features
 
