@@ -49,7 +49,7 @@ const ProductCard = ({
           <p><strong>Brand:</strong> {product.brand}</p>
           <p><strong>Model:</strong> {product.name}</p>
           {product.feature && <p><strong>Feature:</strong> {product.feature}</p>}
-          {product.color && <p><strong>Color:</strong> {product.color}</p>}
+          <p><strong>Color:</strong> {product.specification}</p>
           {/* <p><strong>Price:</strong> ${product.price}</p> */}
           <p><strong>Price: </strong>${Number(product.price).toLocaleString("en-US", { minimumFractionDigits: 2 })}</p>
         </div>
